@@ -1,0 +1,9 @@
+.header{
+    background-color: blueviolet;
+    min-height: 60px;
+    max-height: 70px;
+    border: solid;
+}
+#logo{
+    max-height: 65px;
+}
